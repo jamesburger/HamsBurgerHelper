@@ -1,5 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61d04c8c-5ff7-4690-8dee-844855484572" name="Default Changelist" comment="Initial solution build">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HamsBurgerHelper/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HamsBurgerHelper/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HamsBurgerHelper/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HamsBurgerHelper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HamsBurgerHelper/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Common/Rule.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Common/TurnPhases.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Controllers/HomeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/HamsBurgerHelper.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Models/ErrorViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Views/Home/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Views/Home/Privacy.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Views/Shared/Error.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Views/_ViewImports.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Views/_ViewStart.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/js/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1uSHtgxwIHwP9nHrTRVu7QHzmCp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.HamsBurgerHelper">
     <configuration name="HamsBurgerHelper" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/HamsBurgerHelper/HamsBurgerHelper.csproj" />
@@ -31,5 +105,10 @@
         <option name="Build" />
       </method>
     </configuration>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial solution build" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial solution build" />
   </component>
 </project>
