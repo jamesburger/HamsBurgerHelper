@@ -4,7 +4,10 @@
     <projectFile>HamsBurgerHelper/HamsBurgerHelper.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61d04c8c-5ff7-4690-8dee-844855484572" name="Default Changelist" comment="Added Entity Sql Server package to HamsBurgerHelper.csproj" />
+    <list default="true" id="61d04c8c-5ff7-4690-8dee-844855484572" name="Default Changelist" comment="Created ArmyIndex.cs">
+      <change afterPath="$PROJECT_DIR$/HamsBurgerHelper/Data/ArmyIndexContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HamsBurgerHelper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HamsBurgerHelper/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,7 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/HamsBurgerHelper/HamsBurgerHelper.csproj" />
       <option value="$PROJECT_DIR$/HamsBurgerHelper/Models/ArmyIndex.cs" />
+      <option value="$PROJECT_DIR$/HamsBurgerHelper/Data/ArmyIndexContext.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uSHtgxwIHwP9nHrTRVu7QHzmCp" />
@@ -78,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1624652372664</updated>
       <workItem from="1624652398677" duration="2743000" />
-      <workItem from="1624979705162" duration="1511000" />
+      <workItem from="1624979705162" duration="2126000" />
     </task>
     <task id="LOCAL-00001" summary="Initial solution build">
       <created>1624652628189</created>
@@ -122,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624995185951</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Created ArmyIndex.cs">
+      <created>1624995860418</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624995860418</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +159,7 @@
     <MESSAGE value="&#10;Added Repos directory" />
     <MESSAGE value="Added Entity Core nuget package" />
     <MESSAGE value="Added Entity Sql Server package to HamsBurgerHelper.csproj" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Entity Sql Server package to HamsBurgerHelper.csproj" />
+    <MESSAGE value="Created ArmyIndex.cs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created ArmyIndex.cs" />
   </component>
 </project>
